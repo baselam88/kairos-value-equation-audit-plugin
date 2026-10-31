@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Audits any offer through the four value variables (dream outcome x likelihood / time delay x effort) and improves the variables instead of cutting price.",
+  "keywords": [
+    "audit",
+    "equation",
+    "kairos",
+    "small business",
+    "value"
+  ],
+  "license": "MIT",
+  "name": "kairos-value-equation-audit",
+  "repository": "https://github.com/baselam88/kairos-value-equation-audit-plugin",
+  "version": "0.1.0"
+}
